@@ -1,5 +1,5 @@
 ##### Fast Campus Data Science School 7th Team Project 1 Regression Analysis
-# [Walmart Recruiting: Trip Type Classification](https://www.kaggle.com/c/walmart-recruiting-sales-in-stormy-weather)
+# [Walmart Recruiting II: Sales in Stormy Weather](https://www.kaggle.com/c/walmart-recruiting-sales-in-stormy-weather)
 
 
 ![](https://github.com/yunah0515/dss7_Crawling_walmart/blob/master/image/kaggle%20main%20image.png?raw=true)
